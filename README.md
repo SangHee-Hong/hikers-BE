@@ -42,11 +42,11 @@
 <img width="1787" height="986" alt="image" src="https://github.com/user-attachments/assets/f646b467-204b-4c06-9297-22481e989df8" />
 <img width="1796" height="1010" alt="image" src="https://github.com/user-attachments/assets/374d465d-b9ea-48b4-9570-64bd864df2d5" />
 
---
+
 ## ERD
 <img width="2056" height="1141" alt="image" src="https://github.com/user-attachments/assets/1fafd29d-8831-45b7-b203-0fd7ef47d9cb" />
 
-## etting Started
+## Getting Started
 
 ### Prerequisites
 - Java 17+
